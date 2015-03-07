@@ -3061,7 +3061,7 @@
     <string name="factory_mode">Заводское меню</string>
     <string name="factory_mode_summary">Вход в режим заводских настроек и тестирование устройства</string>
     <string name="pach_number">Модифицированная версия</string>
-    <string name="pach_number_default">LEWA_ViNNNtalik_Mod</string>
+    <string name="pach_number_default">by greeshan</string>
     <string name="homescreen">Виртуальная панель</string>
     <string name="homescreen2">Наэкранные клавиши</string>
     <string name="homescreen_summary">Вкл/выкл виртуальной панели клавиш Google</string>

@@ -160,7 +160,7 @@
     <string name="dlg_not_support_ota_msg">Ваш рекавери не поддерживает обновление с SD-карты!</string>
     <string name="ex_sdcard">SD-карта</string>
     <string name="in_sdcard">Внутреннее хранилище</string>
-    <string name="lewa_owner_tip">Разработано LEWA. Перевод ViNNNtalik</string>
+    <string name="lewa_owner_tip">Разработано LEWA. Сборка by greeshan</string>
     <string name="menu_download_manager">Менеджер загрузки</string>
     <string name="action_settings">Настройки</string>
     <string name="app_label">Менеджер загрузки</string>
