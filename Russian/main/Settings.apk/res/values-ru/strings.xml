@@ -2329,8 +2329,8 @@
     <string name="buttonlight_title">Подсветка клавиш</string>
     <string name="buttonlight_msg">Подсветка клавиш при касании экрана</string>
 
-    <string name="common_settings_title">КРАТКО</string>
-    <string name="settings_title">ПОДРОБНО</string>
+    <string name="common_settings_title">ОСНОВНОЕ</string>
+    <string name="settings_title">ВСЕ</string>
     <string name="custom_frequent_foot_btn_text">Изменить....</string>
     <string name="ringvolume_vibrate_title">Мелодии и вибрация</string>
     <string name="audio_sound_title">Звук</string>
