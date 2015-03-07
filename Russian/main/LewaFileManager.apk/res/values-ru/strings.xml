@@ -304,7 +304,7 @@
     <string name="menu_show_internal_sdcard">Показывать файлы только внутреннего хранилища</string>
     <string name="menu_show_external_sdcard">Показывать файлы только на SD-карте</string>
     <string name="menu_show_all_sdcard">Показывать все файлы</string>
-    <string name="tab_builtInsdcardlist">Внутреннее хранилище</string>
+    <string name="tab_builtInsdcardlist">Телефон</string>
     <string name="tab_externalsdcardlist">SD-карта</string>
     <string name="sdcard">SD-карта</string>
     <string name="built_in_sdcard">Внутреннее хранилище</string>

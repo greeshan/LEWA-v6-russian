@@ -2,6 +2,9 @@
     <string name="short_date_format" value="dd/MM EEEE" />
     <string name="long_date_format" value="dd/MM/yyyy" />
     <string name="slide_down" value="Вниз для разблокировки" />
+    <string name="slide_up_camera" value="Слайд вверх - камера" />
+    <string name="slide_down_call" value="Слайд вниз - вызовы" />
+    <string name="slide_down_mess" value="Слайд вниз - сообщения" />
     <string name="air_quality" value="AQI:" />
     <string name="chinese_calendar_show" value="0"/>
     <string name="week_offsetY" value="0"/>
