@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string name="application_name">Лаунчер Lewa</string>
     <string name="folder_name">Без имени</string>
     <string name="chooser_wallpaper">Выбрать обои от</string>
@@ -8,8 +7,6 @@
     <string name="pick_wallpaper">Обои</string>
     <string name="activity_not_found">Приложение не установлено</string>
     <string name="widgets_tab_label">Виджеты</string>
-
-
     <string name="rename_folder_title">Переименование</string>
     <string name="group_applications">Приложения</string>
     <string name="group_shortcuts">Ярлыки</string>
@@ -150,9 +147,6 @@
     <string name="pull_to_refresh_pull_label">Потяните для обновления…</string>
     <string name="pull_to_refresh_release_label">Отпустите для обновления…</string>
     <string name="pull_to_refresh_refreshing_label">Загрузка...</string>
-
-
-
     <string name="launcher_wallpaper">Обои</string>
     <string name="launcher_widget">Виджеты</string>
     <string name="launcher_anim">Переход</string>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="video_app_name">Видео</string>
+    <string name="scanning">Сканирование SD карты...</string>
+    <string name="sdcard_missing_message">В телефоне отсутствует SD карта.</string>
+    <string name="video_list_empty">Нет видео.</string>
+    <string name="detail_title">Название : %1$s</string>
+    <string name="detail_date_taken">Сделано : %1$s</string>
+    <string name="detail_path">Путь : %1$s</string>
+    <string name="detail_filesize">Размер : %1$s</string>
+    <string name="detail_duration">Длительность : %1$s</string>
+    <string name="media_detail">Свойства</string>
+    <string name="delete">Удалить</string>
+    <string name="delete_tip">Удалить %1$s?</string>
+    <string name="delete_progress">Удаление %1$s ...</string>
+    <string name="max_video">Максимум видео</string>
+    <string name="hotknot">HotKnot</string>
+    <string name="share">Отправить</string>
+    <string name="deselect_all">Убрать все</string>
+    <string name="select_all">Выбрать все</string>
+    <string name="selected">выбранные</string>
+    <string name="delete_selection_one">Удалить выбранный элемент?</string>
+    <string name="delete_selection_more">Удалить выбранные элементы?</string>
+    <string name="select_item">Выбрать</string>
+</resources>

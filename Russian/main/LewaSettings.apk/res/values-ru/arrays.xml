@@ -493,7 +493,7 @@
         <item>(одно ядро)</item>
         <item>(два ядра)</item>
         <item>(четыре ядра)</item>
-        <item>(восемь ядер)</item>
+        <item>(8 ядер)</item>
     </string-array>
     <string-array name="dualsim_summaries">
         <item>SIM1</item>

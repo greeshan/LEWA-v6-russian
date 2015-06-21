@@ -3078,4 +3078,8 @@
     <string name="em_settings_adb_title">Тонкая настройка параметров телефона</string>
     <string name="two_finger_update_brightness">Изменение яркости двумя пальцами</string>
     <string name="two_finger_update_brightness_description">Яркость меняется свайпом двумя пальцами вверх или вниз по экрану</string>
+	<string name="rom_author_title">LeWa Сборка</string>
+	<string name="rom_author_summary">by greeshan</string>
+	<string name="rom_version_title">Проверить обновления</string>
+	<string name="rom_version_summary">greeshan.ucoz.com</string>
 </resources>
